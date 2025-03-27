@@ -27,8 +27,8 @@
 
 ## 1.2. Набор данных
 ***
-Данные приложены в виде csv файла в данном репозитории:
-[https://github.com/sazsava/Megafon_survey_analysis/blob/main/megafon.csv]
+Данные приложены в виде файла в данном репозитории:
+[Ссылка на csv](https://github.com/sazsava/Megafon_survey_analysis/blob/main/megafon.csv)
 
 megafon.csv содержит следующие значения:
 - user_id — идентификатор абонента;
