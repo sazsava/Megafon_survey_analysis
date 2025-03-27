@@ -3,7 +3,7 @@
 
 ***pandas, matplotlib, plotly, scipy***
 
-<img src="https://img.freepik.com/premium-vector/review-illustration-customer-service-user-experience-concept-flat-vector-modern-illustration_566886-6588.jpg?w=1380" width="726" height="250" />
+<img src="https://img.freepik.com/premium-vector/review-illustration-customer-service-user-experience-concept-flat-vector-modern-illustration_566886-6588.jpg?w=1380" width="726" height="350" />
 
 ## 1.1. Задача
 ***
